@@ -9,4 +9,4 @@ console.log(nom)
 
 const age = args[1].split('=')[1]
 console.log(age)
-console.log("Son nom est ${nom} et son age est ${age} années!")
+console.log(`Son nom est ${nom} et son age est ${age} années!`)
