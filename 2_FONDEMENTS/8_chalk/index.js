@@ -8,3 +8,4 @@ if (nota >= 7) {
     console.log(chalk.bgRed('Vous devez refaire l\'examen.'))
 }
 
+
